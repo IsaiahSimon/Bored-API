@@ -333,7 +333,7 @@ document.querySelector('button').addEventListener('click', getFetch)
 
 function getFetch(){
 
-  const url = 'http://www.boredapi.com/api/activity/'
+  const url = 'https://www.boredapi.com/api/activity/'
 
   fetch(url)
       .then(res => res.json()) // parse response as JSON
