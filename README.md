@@ -1,2 +1,2 @@
 # Bored-API
-A random activity generator web app using the Bored API.
+A random activity generator web app with the Bored API integration.
